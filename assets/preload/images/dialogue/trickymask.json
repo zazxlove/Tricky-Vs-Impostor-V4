@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-100,
+		-210
+	],
+	"scale": 0.9,
+	"animations": [
+		{
+			"loop_name": "og normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "og normal",
+			"anim": "Normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "TrickyMask_talk"
+}

@@ -1,0 +1,41 @@
+{
+	"storyName": "it's 2 year ago.....",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "WhiteOG",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Improbable-Outset",
+			"trickymask",
+			[
+				25,
+				180,
+				113
+			]
+		],
+		[
+			"Madness",
+			"tricky",
+			[
+				25,
+				180,
+				113
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week0"
+}

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="black_talk.png">
+<SubTexture name="gay normal0000" x="0" y="0" width="481" height="648" frameX="-15" frameY="-13" frameWidth="496" frameHeight="691" />
+</TextureAtlas>

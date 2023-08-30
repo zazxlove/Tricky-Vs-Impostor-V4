@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="TrickyMask_talk.png">
+<SubTexture name="og normal0000" x="0" y="0" width="794" height="544" frameX="-2" frameY="-259" frameWidth="805" frameHeight="805" />
+</TextureAtlas>

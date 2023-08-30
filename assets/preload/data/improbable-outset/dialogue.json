@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "invis",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "('impostor walk by')"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "black",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "hmmmm."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "black",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wait what i saw it's?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "trickymask",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "('doing shits')"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "black",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ohhhh"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "trickymask",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "oh FUCKED!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "black",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i didn't see"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "trickymask",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "im not believe u."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "black",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "up to u."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "black",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey gay zombie u wanna rap?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "black",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "im so bored now."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "trickymask",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hmmmmmmmmmmmmmmmm.mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "trickymask",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yup"
+		}
+	]
+}

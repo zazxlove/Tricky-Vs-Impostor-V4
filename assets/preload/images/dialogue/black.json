@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-40,
+		-90
+	],
+	"scale": 1.05,
+	"animations": [
+		{
+			"loop_name": "gay normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gay normal",
+			"anim": "Normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "black_talk"
+}

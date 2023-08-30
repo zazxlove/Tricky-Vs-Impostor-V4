@@ -1,0 +1,25 @@
+{
+	"position": [
+		-140,
+		-200
+	],
+	"dialogue_pos": "left",
+	"no_antialiasing": false,
+	"scale": 0.85,
+	"image": "Tricky_talk",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "Normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "og normal",
+			"idle_name": "og normal"
+		}
+	]
+}
